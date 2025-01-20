@@ -4,6 +4,6 @@
 <br>
 <div style="display:flex">
     <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/"><img src="assets/LINKEDIN.svg" heigth = 35px width = auto></a>
-    <a href="https://codeforces.com/profile/Isfar_Nayen"><img src="assets/Codeforces.png" heigth = 30px width = "240"></a>
+    <a href="https://codeforces.com/profile/Isfar_Nayen"><img src="assets/Codeforces.png" heigth = 10px width = "220"></a>
 </div>
 <br>
