@@ -1,9 +1,14 @@
 <html>
 <body>
-    <h1>Isfar Nayen</h1>
-    <h2>Undergraduate Student at CUET</h2>
+<h1 align="center">Isfar Nayen</h1>
+<h2 align="center">Undergraduate Student at CUET</h2>
     
-<h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
+<h3>About me:</h3>
+
+- Currently a undergrade student in CUET.
+- Love to do Competitive Programming and Problem solving.
+- Love to learn any tech cool stuff.
+- Expecting to graduate with a B.Sc in 2025.
 
 <h3 align="left">Profiles:</h3>
 <div style="display:flex">
