@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Isfar Nayen - Profile</title>
-</head>
 <body>
     <h1>Isfar Nayen</h1>
     <h2>Undergraduate Student at CUET</h2>
     
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
-    
-<h3 align="left">Connect with me:</h3>
-    <div style="display: flex;">
-        <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/">
-            <img src="assets/LINKEDIN.svg" height="35px" width="auto" alt="LinkedIn">
-        </a>
-    </div>
+
+<h3 align="left">Profiles:</h3>
+<div style="display:flex">
+    <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/"><img src="assets/LINKEDIN.svg" height=35px width=auto></a>
+    <a href="https://codeforces.com/profile/Isfar_Nayen"><img src="assets/Codeforces.png" height=35px width=auto></a>
+    <a href="https://www.kaggle.com/isfarnayen"><img src="assets/kaggle.png" height=35px width=auto></a>
+    <a href="https://vjudge.net/user/Isfar_Nayen"><img src="assets/vjudge.png" height=35px width=auto></a>
+</div>
     
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
