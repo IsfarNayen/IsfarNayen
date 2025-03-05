@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
     <h1>Isfar Nayen</h1>
@@ -56,7 +55,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+            <img src="assets/Laravel.png" alt="Laravel" width=auto height="40"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
