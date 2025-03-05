@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Isfar Nayen - Profile</title>
-</head>
 <body>
     <h1>Isfar Nayen</h1>
     <h2>Undergraduate Student at CUET</h2>
@@ -12,9 +9,9 @@
 <h3 align="left">Profiles:</h3>
 <div style="display:flex">
     <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/"><img src="assets/LINKEDIN.svg" height=35px width=auto></a>
-    <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="assets/Codeforces.svg" height=35px width=auto></a>
-    <a href="https://vjudge.net/user/YOUR_VJUDGE_USERNAME"><img src="assets/vjudge.svg" height=35px width=auto></a>
-    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="assets/kaggle.svg" height=35px width=auto></a>
+    <a href="https://codeforces.com/profile/Isfar_Nayen"><img src="assets/Codeforces.png" height=35px width=auto></a>
+    <a href="https://www.kaggle.com/isfarnayen"><img src="assets/kaggle.png" height=35px width=auto></a>
+    <a href="https://vjudge.net/user/Isfar_Nayen"><img src="assets/vjudge.png" height=35px width=auto></a>
 </div>
     
 <h3 align="left">Languages and Tools:</h3>
@@ -65,6 +62,5 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
         </a> 
     </p>
-
 </body>
 </html>
