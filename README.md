@@ -8,13 +8,14 @@
     <h2>Undergraduate Student at CUET</h2>
     
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
-    
-<h3 align="left">Connect with me:</h3>
-    <div style="display: flex;">
-        <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/">
-            <img src="assets/LINKEDIN.svg" height="35px" width="auto" alt="LinkedIn">
-        </a>
-    </div>
+
+<h3 align="left">Profiles:</h3>
+<div style="display:flex">
+    <a href="https://www.linkedin.com/in/isfar-nayen-0ba8ba341/"><img src="assets/LINKEDIN.svg" height=35px width=auto></a>
+    <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="assets/Codeforces.svg" height=35px width=auto></a>
+    <a href="https://vjudge.net/user/YOUR_VJUDGE_USERNAME"><img src="assets/vjudge.svg" height=35px width=auto></a>
+    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="assets/kaggle.svg" height=35px width=auto></a>
+</div>
     
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -64,5 +65,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
         </a> 
     </p>
+
 </body>
 </html>
